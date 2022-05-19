@@ -1,0 +1,8 @@
+/home/zander/cmke/CMakeFiles/edit_cache.dir
+/home/zander/cmke/CMakeFiles/rebuild_cache.dir
+/home/zander/cmke/Hello/CMakeFiles/Hello.dir
+/home/zander/cmke/Hello/CMakeFiles/edit_cache.dir
+/home/zander/cmke/Hello/CMakeFiles/rebuild_cache.dir
+/home/zander/cmke/Demo/CMakeFiles/helloDemo.dir
+/home/zander/cmke/Demo/CMakeFiles/edit_cache.dir
+/home/zander/cmke/Demo/CMakeFiles/rebuild_cache.dir
